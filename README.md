@@ -20,8 +20,7 @@ This study utilized a variety of datasets for melanoma images: 40 from the PH2 d
 - **SAS**: use Python
 - **statistical methods**:
 1. Data sampling
-   
-reserch process
+2. the research process in the picture
 <img width="445" alt="image" src="https://github.com/Iris910531/melanoma_recognition/assets/53985481/4f1283dc-1205-4110-8c75-f3eef8704253">
 
 
