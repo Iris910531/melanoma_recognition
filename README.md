@@ -17,7 +17,7 @@ This study utilized a variety of datasets for melanoma images: 40 from the PH2 d
 
 ## Tools and statistical methods Used
 
-- **SAS**: use Python
+- **Python**
 - **statistical methods**:
 1. Data sampling
 2. the research process in the picture
