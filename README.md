@@ -28,7 +28,7 @@ This study utilized a variety of datasets for melanoma images: 40 from the PH2 d
 
 README.md # This file.
 data/ # Folder containing the dataset(s).
-code/ # Folder containing SAS code files.
+code/ # Folder containing python code files.
 report/ # Folder containing the project report in .docx format and .pdf format.
 
 
@@ -43,6 +43,6 @@ report/ # Folder containing the project report in .docx format and .pdf format.
 ## Contact Information
 
 For any further questions or collaboration opportunities, please reach out to me at:
-- Email: [candy0979438843@gmail.com](mailto:candy0979438843@gmail.com)
-- LinkedIn: [Iris Kuo](http://linkedin.com/in/依璇-郭-835b00268)
+- Email: [yguo@gmail.com](mailto:yguo@8395@gmail.com)
+- LinkedIn: [Iris Kuo](https://www.linkedin.com/in/yi-hsuan-kuo-835b00268/)
 - GitHub: [Iris Kuo](https://github.com/Iris910531)
