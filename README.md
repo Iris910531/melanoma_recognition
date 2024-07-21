@@ -26,10 +26,25 @@ This study utilized a variety of datasets for melanoma images: 40 from the PH2 d
 
 ## Project Structure
 
-README.md # This file.
-data/ # Folder containing the dataset(s).
-code/ # Folder containing python code files.
-report/ # Folder containing the project report in .docx format and .pdf format.
+```plaintext
+melanoma_recognition/
+├── code/                             # Folder containing Python code files.
+│   ├── CNN_model_training.ipynb      # python code that containing CNN model's training process.
+│   ├── Feature_normalization.ipynb   # python code that containing feature normalization process.
+│   ├── Features_extraction.ipynb     # python code that generates all features from symptom pictures
+│   ├── ML_model_training.ipynb       # python code that containing SVM, RF, NB, KNN, LR, NN models' training process.
+│   └── *.py
+├── data/                             # Folder containing a test picture.
+│   └── test.jpg
+
+├── report/                # Folder containing the project report details in .docx format and pdf format.
+│   ├── customer_analytics_Chinese.docx
+│   ├── customer_analytics_Chinese.pdf
+│   ├── customer_analytics_English.docx
+│   └── customer_analytics_English.pdf
+│
+└── README.md              # This file.
+```
 
 
 ## How to Use
